@@ -1,5 +1,5 @@
 # Travel-Planning-Website
-## Lively Demo
+## Live Demo
 https://drive.google.com/file/d/1ME593sVDGRn9xoqnFx7b-uDYgyjs4tEK/view?usp=sharing
 
 ## Introduction
